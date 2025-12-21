@@ -1,9 +1,9 @@
 ## Hi there 👋
-<img src="https://i.pinimg.com/originals/7c/47/21/7c47213fd6ccbf83ae905931607aacbf.gif">
+
 
 <!--
 **Kreciolina/Kreciolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://i.pinimg.com/originals/7c/47/21/7c47213fd6ccbf83ae905931607aacbf.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
